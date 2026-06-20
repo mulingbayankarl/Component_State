@@ -1,5 +1,5 @@
 # Welcome to your Expo app 👋
-
+#this is the youtube link : https://youtube.com/shorts/rr1i6DLIXSc?si=I2wubS5BhjTXHNvU
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
